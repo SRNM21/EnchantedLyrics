@@ -16,6 +16,7 @@ public class Enchanted
     {
         Scanner scan = new Scanner(System.in);
 
+        // Edit path
         final String path = "C:\\Users\\Greggy\\OneDrive\\Desktop\\ENCHANTED.WAV";
         File enchanted = new File(path);
 
